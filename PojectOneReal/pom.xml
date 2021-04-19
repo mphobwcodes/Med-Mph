@@ -18,7 +18,7 @@
 		<java.version>1.8</java.version>
 		<azure.version>2.2.0</azure.version>
 		<spring-cloud.version>Hoxton.SR1</spring-cloud.version>
-		<vaadin.version>14.1.3</vaadin.version>
+		<vaadin.version>14.4.10</vaadin.version>
 	</properties>
 
 	<dependencies>
